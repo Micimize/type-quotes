@@ -1,0 +1,47 @@
+{
+    "type": "album",
+    "title": "words",
+    "artist": "duolingo italian",
+    "tracks": [ {
+        "title": [ "Duolingo", "Duolingo" ],
+        "verses": [ [
+            ["diventare", "become"],
+            ["omni", "every"],
+            ["mi", "me"],
+            ["dare", "give"],
+            ["come", "as"],
+            ["noi", "we"],
+            ["su", "on"],
+            ["finite", "end"],
+            ["vivere", "live"],
+            ["cut", "which"],
+            ["arrivare", "arrive"],
+            ["egli", "he"],
+            ["impossible", "impossible"],
+            ["troppo", "too much"],
+            ["il", "the"],
+            ["grande", "great"],
+            ["chi", "who"],
+            ["solo", "only"],
+            ["bastare", "suffice"],
+            ["sotto", "under"],
+            ["attuale", "current"],
+            ["entrare", "enter"],
+            ["fino", "till"],
+            ["rendere", "make"],
+            ["andar", "go"],
+            ["anche", "also"],
+            ["poco", "little"],
+            ["ancora", "yet"],
+            ["prima", "before"],
+            ["uomo", "man"],
+            ["capire", "understand"],
+            ["uscire", "go out"],
+            ["tempo", "time"],
+            ["casa", "home"],
+            ["finite", "end"],
+            ["mano", "hand"]
+        ] ]
+    } ]
+}
+

@@ -1,0 +1,121 @@
+{
+    "type": "album",
+    "artist": "Остава", 
+    "title": "След любов по време на война, After love in war",
+    "tracks": [
+        {
+            "title": [ "Огледало", "Mirror" ],
+            "verses": [
+                [ ["Оглеждам се случайно,", "looking over ourselves idly,"],
+                  ["усмихвам се навярно.", "probably smiling."],
+                  ["Докосвам те във огледало,", "touch you in the mirror,"],
+                  ["докосвам голо тяло с тяло.", "touching naked body to body."] ],
+
+                [ ["Поглеждам те смутено,", "look at you ablush,"],
+                  ["усмихвам се навярно.", "probably smiling."],
+                  ["Докосвам те във огледало,", "touch you in the mirror,"],
+                  ["докосвам голо тяло с тяло.", "touching naked body to body."] ],
+
+                [ ["Във стая с огледало пред мен", "in a room with a mirror before me"],
+                  ["ще остана - гледам себе си.", "will stay, to look at ourselves."] ],
+
+                [ ["Докосвам те случайно,", "touching ourselves idly,"],
+                  ["усмихвам се навярно.", "probably smiling."],
+                  ["Докосвам те във огледало,", "touch you in the mirror,"],
+                  ["докосвам голо тяло с тяло.", "touching naked body to body."] ],
+
+                [ ["Във стая с огледало пред мен", "in a room with a mirror before me"],
+                  ["ще остана - гледам себе си.", "will stay, to look to ourselves."] ],
+
+                [ ["Във стая с огледало", "in a room with a mirror"],
+                  ["ще остана - гледам се,", "will stay - to look at ourselves"],
+                  ["ще остана - гледам теб.", "will say - to tend to you."] ],
+
+                [ ["Във стая с огледало", "in a room with a mirror"],
+                  ["стоя, зает със себе си,", "stay, occupied with ourselves,"],
+                  ["зает със мислите си.", "occupied with thoughts of us."] ],
+
+                [ ["Голо тяло, голо тяло.", "Naked body, naked body"],
+                  ["Голо тяло, голо огледало.", "Naked body, naked mirror."],
+                  ["Колко малко си приличаш...", "How little you like..."] ] ]
+        }, { 
+            "title": [ "Шоколад", "Chocolate" ],
+            "verses": [
+                [ ["Губя си времето в мисли,", "I'm wasting my time with thoughts"],
+                  ["имам ли нужда оттях?", "Do I need them?"],
+                  ["Екранът блести във мен,", "The screen flashes inside me,"],
+                  ["разказва за всеки от нас.", "Telling about every one of us."],
+                  ["Гледам объркан пред теб,", "I'm looking confused before you,"],
+                  ["объркан е целия свят.", "The whole world is confused."],
+                  ["Сладки пороци пред мен,", "Sweet vices before me,"],
+                  ["по-сладки от шоколад!", "Sweeter than chocolate!"] ],
+  
+                [ ["Дали ще се слееш със мен?", "Will you melt with me?"],
+                  ["Дали ще се скрием в нощта?", "Will we hide in the night?"],
+                  ["Сладък е всеки момент,", "Every moment is sweet"],
+                  ["по-сладък от шоколад.", "Sweeter than chocolate."],
+                  ["Дали ще се смеем с теб?", "Will you melt with me?"],
+                  ["Объркан е целия свят.", "The whole world is confused."],
+                  ["Сладък е всеки твой ден,", "Every day of yours is sweet"],
+                  ["пак сладък е целия свят.", "Once more the whole world is sweet."] ],
+  
+                [ ["Голи тела се докосват,", "Naked bodies are touching"],
+                  ["жадните устни не спят.", "The craving lips aren't sleeping"],
+                  ["Екранът блести във мен,", "The screen flashes inside me,"],
+                  ["разказва за всеки от нас.", "Telling about every one of us."],
+                  ["Отново объркан пред теб,", "Again confused before you"],
+                  ["всичко повтаря се пак.", "Once more everything is repeated."],
+                  ["Твоето тяло пред мен,", "Your body before me,"],
+                  ["по-сладко от шоколад.", "Sweeter than chocolate."] ],
+  
+                [ ["Дали ще се слееш със мен?", "Will you melt with me?"],
+                  ["Дали ще се скрием в нощта?", "Will we hide in the night?"],
+                  ["Сладък е всеки момент,", "Every moment is sweet"],
+                  ["по-сладък от шоколад.", "Sweeter than chocolate."],
+                  ["Дали ще се смеем с теб?", "Will we laugh together?"],
+                  ["Объркан е целия свят.", "The whole world is confused."],
+                  ["Сладък е всеки твой ден,", "Every day of yours is sweet"],
+                  ["пак сладък е целия свят.", "Once more the whole world is sweet."],
+                  ["Дали ще се слееш с мен?", "Will you melt with me?"],
+                  ["Дали ще се скрием в нощта?", "Will we hide in the night?"],
+                  ["Сладък е всеки момент,", "Every moment is sweet"],
+                  ["по-сладък от шоколад.", "Sweeter than chocolate."],
+                  ["Дали ще се смеем с теб?", "Will you laugh with me?"],
+                  ["Объркан е целия свят.", "The whole world is confused."],
+                  ["Сладък е всеки твой ден,", "Every day of yours is sweet"],
+                  ["пак сладък е целия свят.", "Once more the whole world is sweet."] ],
+  
+                [ ["Дали ще се слееш със мен?", "Will you melt with me?"],
+                  ["Дали ще се скрием в нощта?", "Will we hide in the night?"],
+                  ["Сладък е всеки момент,", "Every moment is sweet"],
+                  ["по-сладък от шоколад.", "Sweeter than chocolate."],
+                  ["Дали ще се смееш със мен?", "Will you laugh with me?"],
+                  ["Объркан е целия свят.", "The whole world is confused."],
+                  ["Сладък е всеки твой ден,", "Every day of yours is sweet"],
+                  ["с теб сладък е целия свят.", "With you the whole world is sweet."],
+                  ["Дали ще се слееш със мен?", "Will you melt with me?"],
+                  ["Дали ще се скрием в нощта?", "Will we hide in the night?"],
+                  ["Сладък е всеки момент,", "Every moment is sweet"],
+                  ["по-сладък от шоколад.", "Sweeter than chocolate."],
+                  ["Дали ще се смеем с теб?", "Will you laugh with me?"],
+                  ["Объркан е целия свят.", "The whole world is confused."],
+                  ["Сладък е всеки твой ден,", "Every day of yours is sweet"],
+                  ["пак сладък е целия свят.", "Once more the whole world is sweet."] ],
+  
+                [ ["Стоиш пред мен,", "You are staying before me"],
+                  ["объркан смях,", "Confused laughter"],
+                  ["по-сладко е...от шоколад.", "It is sweeter than... chocolate"],
+                  ["Стоиш пред мен,", "You are staying before me"],
+                  ["объркан смях,", "Confused laughter"],
+                  ["сладък е всеки твой ден,", "Every day of yours is sweet"],
+                  ["пак сладък е целия свят.", "Once more the whole world is sweet"],
+                  ["Стоиш пред мен,", "You are staying before me"],
+                  ["объркан смях,", "Confused laughter"],
+                  ["по-сладко е от шоколад.", "It is sweeter than chocolate"],
+                  ["Стоиш пред мен,", "You are staying before me"],
+                  ["объркан смях,", "Confused laughter"],
+                  ["сладък е всеки твой ден,", "Every day of yours is sweet"],
+                  ["пак сладък е целия свят.", "Once more the whole world is sweet."] ] ]
+        }
+    ]
+}
